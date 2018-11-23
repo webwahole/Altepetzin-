@@ -1,0 +1,2 @@
+# Altepetzin-
+Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con énfasis en el mestizaje, se realizará una modificación en el sitio para desarrollar una intervención interactiva, asi mismo proyectar animaciones las cuales narrarán el uso de los Baños de Moctezuma en diferentes épocas hasta la actualidad. Así el público al que va dirigido podrá conocer un poco más de dicho sitio y su valor histórico
