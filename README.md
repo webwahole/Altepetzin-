@@ -1,24 +1,38 @@
 # Altepetzin-
 Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con énfasis en el mestizaje, se realizará una modificación en el sitio para desarrollar una intervención interactiva, asi mismo proyectar animaciones las cuales narrarán el uso de los Baños de Moctezuma en diferentes épocas hasta la actualidad. Así el público al que va dirigido podrá conocer un poco más de dicho sitio y su valor histórico
 
-###Markdown
-# Altepetzin
-  - home
-    - Inicio
-    - Logotipo
-    - Menú
- - Carrusel Imgenes del Proyecto
- - Acerca de: Concepto / imagen
-    - Descripción del Proyecto
-    / Fondo full screen espacio
-# 2 sección
-    - Imagen Baños de Moctezuma
-    - Historia de los Baños de Moctezuma
-- 3 col / Descripción Moctezuma / H. Cortes / Peces Exoticos
-# 3 sección
-  - espacio
-  - como se modifico (texto)
-  - Imagenes Carrusel (antes / Despues)
+#### este proyecto será en secciones no one page*
+
+## Primer sección
+# Proyecto Altepetzin
+### home(Pagina de inicio)
+  
+  - Logotipo Institucional Altepetzin en color Negro .Png
+  - Menú 
+    - (Home, Descripción, Proyecto, Renders.) (botones Negros, texto Blanco, hover azul marino que sea oscuro pero no tanto para que resalte el texto del menu) *Position Fixed*
+  - (Header) 
+    - Carrusel Imgenes del Proyecto maximo 3 *espacio, artefactos, conoce mas*
+  - (Section) 
+    - Acerca de: Concepto / imagen (imagen Hover antes/despues) *esta seccion será dividida en dos partes divididas en 6 col)
+  - Descripción del Proyecto 
+    - (Objetivo) o lugar del Evento segun convenga "Centrado sobre background azul)  width: vh 100, heigth: auto;
+  - footer: 
+    - contactos, redes sociales, 
+# Descripción 
+  - Header: 
+    - Imagen Baños de Moctezuma 100vh
+  - Section: 
+    - Historia de los Baños de Moctezuma *breve reseña* Centrado, background blanco
+  - section:
+    -  dividido en 3 col x3 / 1.- Moctezuma / 2.- H. Cortes /3.- Peces Exoticos con links vinculados a paginas de información *tipo Wikipedia* 
+  - footer: 
+    - contactos, redes sociales, 
+# Proyecto
+  - Header 
+    - Imagen Los Baños de Moctezuma 100vh Imagenes Carrusel (antes / Despues)
+  - Section Texto:
+    - como se modifico (texto /reseña Internet)
+  - 1 Section dividido con 6 Div dentro de 3 col (dos por columna) (los seis artefactos divididos  3 arriba y 3 abajo dentro de un secton 100 vh)
     - seccion propuestas a desarrollar
     Artefactos:
     - cupula Geodesica
@@ -27,9 +41,18 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
     - pecera
     - libro
     - banca
+  - section 
+    - boton de descarga (aqui ira un boton paradescargar en pdf de los archivos de los artefactos por si necesitan ser consultados) aprox heigth: 30 px; width:100%
+  - footer: 
+    - contactos, redes sociales,
+    
 
-# 4 section
-  - carrusel de imagenes de recorrido
-    - sección Video proyector
-    - seccion videos Rendesrs
-  - Descripciónde recorrido
+# Renders
+  - Header:
+    - Objetivo de Artefactos
+  - section:
+    - sección Video proyecto
+  - section:
+    - seccion videos Renders
+ - footer: 
+    - contactos, redes sociales,
