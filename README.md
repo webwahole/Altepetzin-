@@ -5,21 +5,21 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
 # Proyecto Altepetzin
 
 ## Primer sección
-### home(Pagina de inicio)
+### Inicio (Pagina de inicio)
   
   - Logotipo Institucional Altepetzin en color Negro .Png
   - Menú 
     - (Home, Descripción, Proyecto, Renders.) (botones Negros, texto Blanco, hover azul marino que sea oscuro pero no tanto para que resalte el texto del menu) *Position Fixed*
   - (Header) 
-    - Carrusel Imgenes del Proyecto maximo 3 *espacio, artefactos, conoce mas*
+    - Carrusel Imgenes del Proyecto maximo 3 **espacio, artefactos, conoce mas**
   - (Section) 
-    - Acerca de: Concepto / imagen (imagen Hover antes/despues) *esta seccion será dividida en dos partes divididas en 6 col)
-  - Descripción del Proyecto 
+    - Acerca de: Concepto / imagen (imagen Hover antes/despues) **esta seccion será dividida en dos partes divididas en 6 col)
+  - Descripción del Proyecto**
     - (mapa del lugar)  width: vh 100, heigth: auto;
   - footer: 
     - contactos, redes sociales.
     
-  - # Descripción 
+  - ## Descripción 
   - Header: 
     - Imagen Baños de Moctezuma 100vh
   - Section: 
@@ -28,7 +28,7 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
     -  dividido en 3 col x3 / 1.- Moctezuma / 2.- H. Cortes /3.- Peces Exoticos con links vinculados a paginas de información *tipo Wikipedia* 
   - footer: 
     - contactos, redes sociales, 
-  - # Proyecto
+  - ## Proyecto
   - Header 
     - Imagen Los Baños de Moctezuma 100vh Imagenes Carrusel (antes / Despues)
   - Section Texto:
@@ -48,7 +48,7 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
     - contactos, redes sociales,
     
 
-  - # Renders
+  - ## Renders
   - Header:
     - Objetivo de Artefactos
   - section:
