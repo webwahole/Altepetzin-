@@ -13,8 +13,8 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
   - (Header) 
     - Carrusel Imgenes del Proyecto maximo 3 **espacio, artefactos, conoce mas**
   - (Section) 
-    - Acerca de: Concepto / imagen (imagen Hover antes/despues) **esta seccion será dividida en dos partes divididas en 6 col)
-  - Descripción del Proyecto**
+    - Acerca de: Concepto / imagen (imagen Hover antes/despues) **esta seccion será dividida en dos partes divididas en 6 col)**
+  - Descripción del Proyecto
     - (mapa del lugar)  width: vh 100, heigth: auto;
   - footer: 
     - contactos, redes sociales.
