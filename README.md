@@ -2,9 +2,9 @@
 Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con énfasis en el mestizaje, se realizará una modificación en el sitio para desarrollar una intervención interactiva, asi mismo proyectar animaciones las cuales narrarán el uso de los Baños de Moctezuma en diferentes épocas hasta la actualidad. Así el público al que va dirigido podrá conocer un poco más de dicho sitio y su valor histórico
 
 #### este proyecto será en secciones no one page*
+# Proyecto Altepetzin
 
 ## Primer sección
-# Proyecto Altepetzin
 ### home(Pagina de inicio)
   
   - Logotipo Institucional Altepetzin en color Negro .Png
@@ -15,10 +15,11 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
   - (Section) 
     - Acerca de: Concepto / imagen (imagen Hover antes/despues) *esta seccion será dividida en dos partes divididas en 6 col)
   - Descripción del Proyecto 
-    - (Objetivo) o lugar del Evento segun convenga "Centrado sobre background azul)  width: vh 100, heigth: auto;
+    - (mapa del lugar)  width: vh 100, heigth: auto;
   - footer: 
-    - contactos, redes sociales, 
-# Descripción 
+    - contactos, redes sociales.
+    
+  - # Descripción 
   - Header: 
     - Imagen Baños de Moctezuma 100vh
   - Section: 
@@ -27,7 +28,7 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
     -  dividido en 3 col x3 / 1.- Moctezuma / 2.- H. Cortes /3.- Peces Exoticos con links vinculados a paginas de información *tipo Wikipedia* 
   - footer: 
     - contactos, redes sociales, 
-# Proyecto
+  - # Proyecto
   - Header 
     - Imagen Los Baños de Moctezuma 100vh Imagenes Carrusel (antes / Despues)
   - Section Texto:
@@ -47,7 +48,7 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
     - contactos, redes sociales,
     
 
-# Renders
+  - # Renders
   - Header:
     - Objetivo de Artefactos
   - section:
