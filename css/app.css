@@ -1,0 +1,185 @@
+/* wireframe */
+* {
+  /* outline: 1px solid black; */
+  outline: 1px solid black;*/
+}
+/* variables */
+:root {
+  --color-primario: #00ff00;
+  --color-secundario: #0ff000;
+  --color-link: #ff0000;
+  --color-link-hover: #f00000;
+  --altura-header: 75px;
+  --altura-seccion: 100vh;
+}
+/* resets */
+body {
+  /* background-color: black; */
+}
+}
+{
+
+}
+
+/*video*/
+.video{
+  width: 100%;
+  height: auto;
+  position:relative;
+  z-index: 100%;
+  cursor:pointer;
+  min-height: auto;
+  position: relative;
+
+}
+.video iframe{
+  width: 100%;
+  height: 100%;
+}
+
+div, section, article, ul, nav {
+  height: 100%;
+}
+.container-fluid{
+  background: #fff;
+}
+a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  color: #000;
+
+}
+ul {
+  list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  padding: 16px 0 16px 0;
+}
+form {
+  margin-bottom: 16px;
+}
+.ha {
+  height: auto;
+}
+#main,#info, #ubicacion, #participantes {
+  padding-top: var(--altura-header);
+}
+/* header */
+header {
+  height: var(--altura-header);
+  position: fixed;
+  z-index: 10000;
+}
+
+.heroscreen_text{
+/*color:#09264d;*/
+}
+
+.navbar-brand{
+  padding-top:0;
+  padding-bottom: 0;
+  background: #fff;
+}
+figure {
+  height: 100%;
+  display: block;
+  margin: 0;
+}
+figure img {
+  display: block;
+  margin: auto;
+  height: 100%;
+  width: auto;
+}
+/* body */
+#heroscreen, #info, #ubicacion {
+  height: var(--altura-seccion);
+  width: 100%
+}
+/* heroscreen */
+#heroscreen {
+  position: relative;
+}
+.heroscreen_background {
+  overflow: hidden;
+  padding: 0;
+  z-index: -1;
+  
+}
+.heroscreen_background img {
+  height: 100%;
+  width: 100%;
+}
+.heroscreen_text {
+  position: absolute;
+  left: 0;
+  z-index: 0;
+}
+.heroscreen_text h1 {
+  font-size: 6em
+}
+.heroscreen_text h3 {
+  font-size: 4em
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  height: auto;
+  width: 100%;
+
+}
+/* info */
+/*  */
+/* Participantes */
+.participantes_item {
+  height: 250px;
+  overflow: hidden;
+  position: relative;
+  padding: 0;
+}
+.participantes_item_back {
+  position: absolute;
+  padding: 0;
+  width: 100%;
+}
+.participantes_item_back img {
+  height: 100%;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: -1;
+}
+.participantes_item_text {
+  position: absolute;
+  z-index: 0;
+
+}
+
+/* Ubucacion */
+#ubicacion {
+  overflow: hidden;
+}
+#map {
+  /*background: url('../img/carel.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;*/
+  height: 100%;
+  padding: 0;
+}
+#
+
+/* footer */
+footer {
+  height: var(--altura-header);
+}
+.social {
+  font-size: 2em
+}
+.social ul {
+  padding: 0;
+  margin: 0;
+}
