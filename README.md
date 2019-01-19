@@ -57,3 +57,8 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
     - seccion videos Renders
  - footer: 
     - contactos, redes sociales,
+
+<!-- - photos Ej.: ![](Ruta de la imagen) -->
+  - photos Ej.: ![](img/uno.png) 
+  - photos Ej.: ![](img/dos.png)
+  - photos Ej.: ![](img/tres.png)
