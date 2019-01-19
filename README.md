@@ -5,58 +5,40 @@ Se retomó la esencia de los baños de Moctezuma para dar una nueva imagen y con
 # Proyecto Altepetzin
 
 ## Primer sección
-### Inicio (Pagina de inicio)
+### Inicio (Pagina de home)
   
-  - Logotipo Institucional Altepetzin en color Negro .Png
-  - Menú 
-    - (Home, Descripción, Proyecto, Renders.) (botones Negros, texto Blanco, hover azul marino que sea oscuro pero no tanto para que resalte el texto del menu) *Position Fixed*
+ 
+  - Menú
+   - Logotipo      Institucional Altepetzin
+    - (Home logotipo, Altepetzin, Renders, Mapa.) (botones Negros, fondo blanco) *Position Fixed*
   - (Header) 
-    - Carrusel Imgenes del Proyecto maximo 3 **espacio, artefactos, conoce mas**
+    - Carrusel Imgenes del Proyecto maximo 10 **espacio, artefactos**
   - (Section) 
-    - Acerca de: Concepto / imagen (imagen Hover antes/despues) **esta seccion será dividida en dos partes divididas en 6 col)**
+    - Descripción: Concepto / imagen (imagen Anuncio) **esta seccion será dividida en dos partes divididas en 8 y 4 col)**
   - Descripción del Proyecto
+  y signos de valor
+
+    -Estudiantes 
+    Angel yebrin, Rodrigo Rodriguez.
     - (mapa del lugar)  width: vh 100, heigth: auto;
   - footer: 
     - contactos, redes sociales.
     
-  - ## Descripción 
-  - Header: 
-    - Imagen Baños de Moctezuma 100vh
-  - Section: 
-    - Historia de los Baños de Moctezuma *breve reseña* Centrado, background blanco
-  - section:
-    -  dividido en 3 col x3 / 1.- Moctezuma / 2.- H. Cortes /3.- Peces Exoticos con links vinculados a paginas de información *tipo Wikipedia* 
-  - footer: 
-    - contactos, redes sociales, 
+  - ## Render
+  - Menú
+   - Logotipo      Institucional Altepetzin
+    - (Home logotipo, Altepetzin, Proyecto, Mapa.) (botones Negros, fondo blanco) *Position Fixed*
+  - (Header) 
+  - Heroscreen: dividido en 4 secciones de 3 col 
+donde se ubicarán cada uno de los artefactos y el espacio final montado con y sin cupula
   - ## Proyecto
-  - Header 
-    - Imagen Los Baños de Moctezuma 100vh Imagenes Carrusel (antes / Despues)
-  - Section Texto:
-    - como se modifico (texto /reseña Internet)
-  - 1 Section dividido con 6 Div dentro de 3 col (dos por columna) (los seis artefactos divididos  3 arriba y 3 abajo dentro de un secton 100 vh)
-    - seccion propuestas a desarrollar
-    Artefactos:
-    - cupula Geodesica
-    - stand
-    - proyector
-    - pecera
-    - libro
-    - banca
-  - section 
-    - boton de descarga (aqui ira un boton paradescargar en pdf de los archivos de los artefactos por si necesitan ser consultados) aprox heigth: 30 px; width:100%
-  - footer: 
-    - contactos, redes sociales,
-    
-
-  - ## Renders
-  - Header:
-    - Objetivo de Artefactos
-  - section:
-    - sección Video proyecto
-  - section:
-    - seccion videos Renders
- - footer: 
-    - contactos, redes sociales,
+   - Menú
+   - Logotipo      Institucional Altepetzin
+    - (Home logotipo, Altepetzin, Renders, Mapa.) (botones Negros, fondo blanco) *Position Fixed*
+  - Heroscreen video logo reveal
+  -Section : video de recorrido del espacio ccon cupula montada
+  -section:
+video recorrido del espacio sin cupula 
 
 <!-- - photos Ej.: ![](Ruta de la imagen) -->
   - photos Ej.: ![](img/uno.png) 
